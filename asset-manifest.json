@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/edvora/static/css/main.245d6090.chunk.css",
+    "main.js": "/edvora/static/js/main.86737a24.chunk.js",
+    "main.js.map": "/edvora/static/js/main.86737a24.chunk.js.map",
+    "runtime-main.js": "/edvora/static/js/runtime-main.73922c2e.js",
+    "runtime-main.js.map": "/edvora/static/js/runtime-main.73922c2e.js.map",
+    "static/js/2.e65b6175.chunk.js": "/edvora/static/js/2.e65b6175.chunk.js",
+    "static/js/2.e65b6175.chunk.js.map": "/edvora/static/js/2.e65b6175.chunk.js.map",
+    "static/js/3.b94290c4.chunk.js": "/edvora/static/js/3.b94290c4.chunk.js",
+    "static/js/3.b94290c4.chunk.js.map": "/edvora/static/js/3.b94290c4.chunk.js.map",
+    "index.html": "/edvora/index.html",
+    "static/css/main.245d6090.chunk.css.map": "/edvora/static/css/main.245d6090.chunk.css.map",
+    "static/js/2.e65b6175.chunk.js.LICENSE.txt": "/edvora/static/js/2.e65b6175.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.73922c2e.js",
+    "static/js/2.e65b6175.chunk.js",
+    "static/css/main.245d6090.chunk.css",
+    "static/js/main.86737a24.chunk.js"
+  ]
+}
